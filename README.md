@@ -36,7 +36,7 @@ published: 4 papers (IEEE + Springer)
 tech = {
     "ml": ["PyTorch", "TensorFlow", "scikit-learn"],
     "data": ["PySpark", "Pandas", "SQL"],
-    "mlops": ["Docker", "MLflow", "Airflow", "K8s"],
+    "mlops": ["Docker", "MLflow"],
     "cloud": ["AWS", "GCP"],
     "llm": ["RAG", "LangChain", "Agents"]
 }
